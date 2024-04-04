@@ -12,6 +12,7 @@ The project you described involves several components and features. Here's a bre
 
 Gather a large dataset of fabric images containing both defective and non-defective samples. These images should cover various types of defects, lighting conditions, and fabric textures.
 Annotate the images to provide ground truth labels indicating the presence and location of defects.
+
 2.**Preprocessing**:
 
 Resize the images to a consistent resolution to ensure uniformity across the dataset.
