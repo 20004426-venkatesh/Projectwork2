@@ -1,33 +1,36 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Harnessing Deep Learning for Fabric Defect Detection
+Fabric defect detection have importance in terms of sectoral quality. Automatic systems are developed on the defect detection, in this regard many methods are tried to obtain high precision with image processing studies
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
-
+Fabric defect detection plays an increasingly important role in the industrial automation application for fabric production, but how to detect defects rapidly and accurately is still challenging. In this study, we propose a powerful fabric defect detection method using a hybrid of convolutional neural network (CNN) and variational autoencoder (VAE). The convolutional layers are used for extracting fabric image pattern features and the variational autoencoder is used for modeling the latent characteristics and inferring a reconstruction. The defect positions can be detected by the differences between the original image and the reconstruction image. The proposed method is validated on public patterned fabric datasets. The experimental results demonstrate that the proposed model can achieve outstanding performance in both image level and pixel level defect detection
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+*Image Acquisition
+*Preprocessing
+*Feature Extraction
+*Defect Detection Algorithms
+*Integration with Production Line
+*result and deployment
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+*	System  	          :  Pentium IV 2.4 GHz. 
+*	Hard Disk            :40 GB. 
+*	Floppy Drive  	: 44 Mb. 
+*	Monitor  	 	: 15 VGA Color. 
+*	Ram   	          : 512 Mb. 
+
+
+
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
 ![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/20004426-venkatesh/Projectwork2/assets/75234983/5aba7ac3-4de4-43a0-a688-004d205af3a0)
+
 
 
 ## Output
