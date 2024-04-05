@@ -61,55 +61,43 @@ Implement mechanisms for model monitoring, versioning, and retraining to maintai
 
 ## System Architecture
 
-![Screenshot 2024-04-03 225747](https://github.com/KHADAR134/Projectwork2/assets/75235233/d28fbf1d-f945-44d3-9369-2a77e8e17d31)
+
+![image](https://github.com/20004426-venkatesh/Projectwork2/assets/75234983/91732d92-696a-4d75-b00d-a74fac8a781c)
+
 
 
 ## Output
 
-#### Output1 - Detection For Image
+#### Output1 - Detection For fabric detection
 
-![image](https://github.com/KHADAR134/Projectwork2/assets/75235233/f6a51735-dff4-4c2f-8b1a-9548ba1c4a09)
+![image](https://github.com/20004426-venkatesh/Projectwork2/assets/75234983/5915ae20-9b19-4d1b-9a8d-726b4fa90662)
+
+![image](https://github.com/20004426-venkatesh/Projectwork2/assets/75234983/6270dcb2-92b9-40a9-bdde-b1021167d20b)
 
 
-#### Output2 - Detection For Video
 
-![image](https://github.com/KHADAR134/Projectwork2/assets/75235233/46075a7c-9217-4fa5-ac53-7045300fe73d)
+
+
+
+
 
 
 
 ## Results and Impact
-1)Implementing a YOLO-based weapon detection system in live streams and videos enhances security by swiftly identifying weapons.
-
-2)Email notifications promptly alert authorities, enabling rapid response to potential threats.
-
-3)Users experience heightened safety and peace of mind in public spaces and sensitive environments.
-
-4)Real-time monitoring fosters proactive measures against violence and unlawful activities.
-
-5)The system minimizes human error and improves overall surveillance efficacy.
-
-6)It empowers law enforcement to intervene swiftly, preventing potential harm.
-
-7)Public trust in safety measures is bolstered, fostering a sense of security and wellbeing.
-
-8)Ultimately, the integration of YOLO technology enhances situational awareness and promotes safer communities.
+Fabric defect detection plays an increasingly important role in the industrial automation application for fabric production, but how to detect defects rapidly and accurately is still challenging. In this study, we propose a powerful fabric defect detection method using a hybrid of convolutional neural network (CNN) and variational autoencoder (VAE). The convolutional layers are used for extracting fabric image pattern features and the variational autoencoder is used for modeling the latent characteristics and inferring a reconstruction. The defect positions can be detected by the differences between the original image and the reconstruction image. The proposed method is validated on public patterned fabric datasets. The experimental results demonstrate that the proposed model can achieve outstanding performance in both image level and pixel level defect detectionwha
 
 ## Articles published / References
-[1] P. Mohanty, A. Tushir, and A. Patwardhan, "Weapon detection in surveillance videos using YOLO v3," in 2019 3rd International Conference on Computing Methodologies and Communication (ICCMC), 2019, pp. 1204-1208.Link: https://ieeexplore.ieee.org/document/8930745
-
-[2]  S. E. Elmahmoud, A. E. Hassanien, and A. S. Elmahallawy, "Firearm detection in videos using deep learning," in 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2019, pp. 3854-3859.Link: https://ieeexplore.ieee.org/document/8914411
-
-[3]  S. Al-Din, M. F. Fazal, and M. Arif, "Firearm detection in videos using deep learning," in 2020 8th IEEE International Conference on Engineering Technologies and Applied Sciences (ICETAS), 2020, pp. 1-6.Link: https://ieeexplore.ieee.org/document/9333619
-
-[4]  H. Yuan, H. Xia, J. Wu, Z. Wang, and Z. Yang, "Firearm detection in surveillance videos based on YOLOv3," in 2021 4th International Conference on Mechatronics, Control and Robotics (ICMCR), 2021, pp. 242-246.Link: https://ieeexplore.ieee.org/document/9392905
-
-[5]  A. Khokhar, M. A. Khan, M. Arif, and S. Iqbal, "Firearm detection in surveillance videos using deep learning," in 2020 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW), 2020, pp. 1-4.Link: https://ieeexplore.ieee.org/document/9259631
-
-[6]  S. O. Vimal, R. Rekha, and S. S. Vinay, "Gun detection using deep learning techniques," in 2021 4th International Conference on Intelligent Sustainable Systems (ICISS), 2021, pp. 2295-2300.Link: https://ieeexplore.ieee.org/document/9436266
-
-[7]  V. Agarwal, S. M. Ak, R. Kumari, and P. Tripathi, "Firearm detection in video surveillance using deep learning techniques," in 2020 3rd International Conference on Computing, Communication and Security (ICCCS), 2020, pp. 1-6.Link: https://ieeexplore.ieee.org/document/9189023
-
-[8]  X. Zheng, J. Zhang, and L. Zhu, "Firearm detection based on improved YOLOv3," in 2021 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR), 2021, pp. 284-289.Link: https://ieeexplore.ie
+•	Y. F. Zhang and R. R. Bresee , “Fabric Defect Detection and Classiﬁcation Using Image Analysis,” Text. Res. J., vol. 65, pp. 1–9, 1995, doi:10.1177/004051759506500101
+•	A. Ghosh, “Pattern classiﬁcation of fabric defects using support vector machines,” Int. J. Cloth. Sci. Technol., vol. 23, pp. 142–151, 2011, doi:10.1108/09556221111107333.
+•	F. Tajeripour ,E. Kabir, and A. Sheikhi , “Fabric defect detection using modiﬁed local binary patterns,” EURASIP J. Adv. Signal Process., vol.2008, 2008, doi: 10.1155/2008/783898
+•	C. Kwak, J. A. Ventura, and K. Tofang-Sazi, “Automated defect inspection and classiﬁcation of leather fabric,” Intell. Data Anal., no. May, pp.355–370, 2001, doi: 10.3233/IDA-2001-5406.
+•	K. L. Mak, P. Peng, and K. F. C. Yiu, “Fabric defect detection using morphological ﬁlters,” Image Vis. Comput., vol. 27, no. 10, pp. 1585–1592,2009, doi: 10.1016/j.imavis.2009.03.007
+•	A. Conci and C. B. Proença, “A fractal image analysis system for fabric inspection based on a box-counting method,” Comput. Netw. ISDN Syst,vol. 30, no. 20, pp. 1887–1895
+•	L. M. Hoffer, F. Francini, B. Tiribilli, and G. Longobardi, “Neural net-works for the optical recognition of defects in cloth,” Opt. Eng., pp.3183–3190, 1996, doi: 10.1117/1.601057
+•	D. Tsai and C. Hsieh, “Automated surface inspection for directional textures,” Image Vis. Comput, vol. 18, no. 1, pp. 49–62, 1999
+•	A. C. Bovik, M. Clark, and W. S. Geisler, “Multichannel Texture Analysis Using Localized Spatial Filters,” IEEE Trans. Pattern Anal. Mach. Intell.,vol. 12, no. I, pp. 55–73, 1990B. N. Nickolay and H. 
+  Schmalfub, "Automatic fabric inspection – utopiaor reality?," Mellind Textilberichte, vol. 73, pp. 33-37. 1993 
+•	A. Kumar, “Computer-Vision-Based Fabric Defect Detection: A Survey,”IEEE Transactions on Industrial Electronics, vol. 55, no. 1, pp. 348–363,2008
 
 
 
