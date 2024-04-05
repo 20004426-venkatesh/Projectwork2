@@ -88,15 +88,24 @@ Fabric defect detection plays an increasingly important role in the industrial a
 
 ## Articles published / References
 •	Y. F. Zhang and R. R. Bresee , “Fabric Defect Detection and Classiﬁcation Using Image Analysis,” Text. Res. J., vol. 65, pp. 1–9, 1995, doi:10.1177/004051759506500101
+
 •	A. Ghosh, “Pattern classiﬁcation of fabric defects using support vector machines,” Int. J. Cloth. Sci. Technol., vol. 23, pp. 142–151, 2011, doi:10.1108/09556221111107333.
+
 •	F. Tajeripour ,E. Kabir, and A. Sheikhi , “Fabric defect detection using modiﬁed local binary patterns,” EURASIP J. Adv. Signal Process., vol.2008, 2008, doi: 10.1155/2008/783898
+
 •	C. Kwak, J. A. Ventura, and K. Tofang-Sazi, “Automated defect inspection and classiﬁcation of leather fabric,” Intell. Data Anal., no. May, pp.355–370, 2001, doi: 10.3233/IDA-2001-5406.
+
 •	K. L. Mak, P. Peng, and K. F. C. Yiu, “Fabric defect detection using morphological ﬁlters,” Image Vis. Comput., vol. 27, no. 10, pp. 1585–1592,2009, doi: 10.1016/j.imavis.2009.03.007
+
 •	A. Conci and C. B. Proença, “A fractal image analysis system for fabric inspection based on a box-counting method,” Comput. Netw. ISDN Syst,vol. 30, no. 20, pp. 1887–1895
+
 •	L. M. Hoffer, F. Francini, B. Tiribilli, and G. Longobardi, “Neural net-works for the optical recognition of defects in cloth,” Opt. Eng., pp.3183–3190, 1996, doi: 10.1117/1.601057
+
 •	D. Tsai and C. Hsieh, “Automated surface inspection for directional textures,” Image Vis. Comput, vol. 18, no. 1, pp. 49–62, 1999
+
 •	A. C. Bovik, M. Clark, and W. S. Geisler, “Multichannel Texture Analysis Using Localized Spatial Filters,” IEEE Trans. Pattern Anal. Mach. Intell.,vol. 12, no. I, pp. 55–73, 1990B. N. Nickolay and H. 
   Schmalfub, "Automatic fabric inspection – utopiaor reality?," Mellind Textilberichte, vol. 73, pp. 33-37. 1993 
+  
 •	A. Kumar, “Computer-Vision-Based Fabric Defect Detection: A Survey,”IEEE Transactions on Industrial Electronics, vol. 55, no. 1, pp. 348–363,2008
 
 
