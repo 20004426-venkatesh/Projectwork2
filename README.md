@@ -18,15 +18,30 @@ Annotate the images to provide ground truth labels indicating the presence and l
 Resize the images to a consistent resolution to ensure uniformity across the dataset.
 Normalize pixel values to a common scale (e.g., [0, 1] or [-1, 1]) to improve model training convergence.
 Augment the training dataset with transformations such as rotation, flipping, and scaling to increase its diversity and robustness.
+
 3.**Model Selection**:
 
 Choose an appropriate deep learning architecture for fabric defect detection. Convolutional Neural Networks (CNNs) are commonly used due to their effectiveness in image-related tasks.
 Consider architectures such as Faster R-CNN, YOLO (You Only Look Once), or SSD (Single Shot Multibox Detector) which are well-suited for object detection tasks
+
 4.**Model Training**:
 
 Initialize the selected model with pre-trained weights on a large-scale image dataset (e.g., ImageNet) to leverage feature representations learned from general images.
 Fine-tune the model on the fabric defect dataset using transfer learning techniques. Train the model to predict both the presence and location of defects within the fabric images.
 Utilize techniques like stochastic gradient descent (SGD) with adaptive learning rate schedulers and regularization methods (e.g., dropout) to prevent overfitting.
+
+5.**Model Evaluation**:
+
+Assess the performance of the trained model on the validation set using metrics such as mean Average Precision (mAP), Precision-Recall curves, and Intersection over Union (IoU).
+Fine-tune hyperparameters based on validation performance to optimize the model's generalization ability.
+
+6.**Model Testing and Deployment**:
+
+Evaluate the final model on the held-out testing set to obtain unbiased performance estimates.
+Integrate the trained model into the fabric inspection pipeline or system for real-time or batch defect detection.
+Implement mechanisms for model monitoring, versioning, and retraining to maintain performance as new data becomes available
+
+
 
 
 
